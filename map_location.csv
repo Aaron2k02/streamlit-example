@@ -1,0 +1,63 @@
+Address,Latitude,Longitude,API,Category
+Alor Gajah,2.382211,102.2115611,50,Good
+Alor Setar,6.1263074,100.3671695,50,Good
+Balik Pulau,5.350316,100.2349501,50,Good
+Balok Baru,3.9404303,103.3672387,50,Good
+Bandaraya Melaka,2.189594,102.2500868,50,Good
+Banting,2.812098,101.5025551,50,Good
+Batu Muda,3.213372,101.6859031,50,Good
+Batu Pahat,1.849442,102.9288341,50,Good
+Besut,5.829012,102.5523781,50,Good
+Bintulu,3.1738542,113.0428485,50,Good
+Bukit Rambai,2.2530034,102.1890042,50,Good
+Cheras,3.1068447,101.7259197,50,Good
+Indera Mahkota,3.820763,103.296973,50,Good
+Jerantut,3.937395,102.3620378,50,Good
+Kangar,6.440633,100.1983709,200,Moderate
+Kapit,1.995115,112.933085,200,Moderate
+Kemaman,4.231592,103.4253518,200,Moderate
+Keningau,5.3374039,116.1566801,200,Moderate
+Klang,3.044917,101.4455621,200,Moderate
+Kluang,2.030068,103.3184639,200,Moderate
+Kota Bharu,6.124785,102.2543825,200,Moderate
+Kota Kinabalu,5.980408,116.0734568,200,Moderate
+Kota Tinggi,1.729375,103.899227,200,Moderate
+Kuala Selangor,3.340184,101.249762,200,Moderate
+Kuala Terengganu,5.329624,103.1370142,200,Moderate
+Kuching,1.5533785,110.359503,200,Moderate
+Kulim,5.371742,100.5553372,200,Moderate
+Labuan,5.2831456,115.230825,200,Moderate
+Langkawi,6.35,99.8,200,Moderate
+Larkin,1.4915057,103.7347091,200,Moderate
+Limbang,4.755032,115.0081459,200,Moderate
+Minden,52.2923549,8.9160539,200,Moderate
+Miri,4.399493,113.9913832,200,Moderate
+Mukah,2.8920883,112.0921699,200,Moderate
+Nilai,2.802455,101.7988711,200,Moderate
+Pasir Gudang,1.470288,103.9029689,200,Moderate
+Pegoh Ipoh,4.5560905,101.0805306,200,Moderate
+Pengerang,1.3647023,104.1111109,200,Moderate
+Petaling Jaya,3.1278871,101.5944885,200,Moderate
+Port Dickson,2.52254,101.7962932,200,Moderate
+Putrajaya,2.926361,101.696445,200,Moderate
+Rompin,2.7944593,103.4862113,300,Unhealthy
+Samalaju,3.5373077,113.2951049,300,Unhealthy
+Samarahan,1.459921,110.488266,300,Unhealthy
+Sandakan,5.839444,118.1171729,300,Unhealthy
+Sarikei,2.131703,111.5237279,300,Unhealthy
+Seberang Jaya,5.3818942,100.3989242,300,Unhealthy
+Seberang Perai,5.3700335,100.4139476,300,Unhealthy
+Segamat,2.50346,102.8207542,300,Unhealthy
+Seremban,2.725889,101.9378239,300,Unhealthy
+Seri Manjung,4.195868,100.664788,300,Unhealthy
+Shah Alam,3.073281,101.518461,300,Unhealthy
+Sibu,2.2883267,111.8312675,450,Very Unhealthy
+Sri Aman,1.237031,111.462079,450,Very Unhealthy
+Sungai Petani,5.643589,100.4894179,450,Very Unhealthy
+Taiping,4.851932,100.7416339,450,Very Unhealthy
+Tanah Merah,5.808887,102.1470772,450,Very Unhealthy
+Tangkak,2.271093,102.5419882,450,Very Unhealthy
+Tanjung Malim,3.679539,101.52027,500,Hazardous
+Tasek Ipoh,4.6408269,101.1089882,500,Hazardous
+Tawau,4.244651,117.8911861,500,Hazardous
+Temerloh,3.448649,102.4163482,500,Hazardous
